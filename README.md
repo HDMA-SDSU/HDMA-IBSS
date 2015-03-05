@@ -1,2 +1,2 @@
 # HDMA-IBSS
-This repository is for one of HDMA project, called SPATIOTEMPORAL MODELING OF HUMAN DYNAMICS ACROSS SOCIAL MEDIA AND SOCIAL NETWORKS,funded by NSF IBSS (Interdisciplinary Behavioral and Social Science Research ) 
+This repository is for one of HDMA project, called Spatialtemporal modeling of human dynamics across social media and social networks,funded by NSF IBSS (Interdisciplinary Behavioral and Social Science Research). Please see more details in [](http://socialmedia.sdsu.edu/) 
